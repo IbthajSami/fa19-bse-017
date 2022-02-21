@@ -1,0 +1,15 @@
+h1{
+    color: rgb(15, 51, 180);
+}
+table, th, td{
+    border: 5px solid grey;
+}
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+    
+}
+.myDiv p{
+    color: red;
+}
