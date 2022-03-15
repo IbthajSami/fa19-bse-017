@@ -13,3 +13,6 @@ table, th, td{
 .myDiv p{
     color: red;
 }
+div, th, td{
+    border: 5px ;
+}
