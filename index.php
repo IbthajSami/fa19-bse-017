@@ -1,1 +1,1 @@
-<?php include_once("./Assignment1.html")?>
+<?php include_once("./quiz.html")?>
